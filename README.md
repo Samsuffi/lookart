@@ -54,6 +54,11 @@ Récupération du contenu du repository
 
 Commandes utiles :
 
+Sous les terminaux type Linux (Terminal ou GitBash) la touche tabulation 
+		permet une écriture automatique des chemins d'accès à partir des premières lettres pertinentes
+		avec trois dossiers [local, wamp, windows],
+				~ cd l [tab] trouve local, mais ~ cd w [tab] ne trouvera pas, il faudra préciser wi ou wa
+
 ~ cd [to] : "change directory"-espace-pathDirectory permet de se positionner dans le pathDirectory
 
 		Exemples :
