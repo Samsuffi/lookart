@@ -1,6 +1,9 @@
 # lookart
 Projet commun 3waGr1
 
+A Symfony project created on May 17, 2017, 10:55 pm.
+
+
 #########################################################################################
 
 ## NOTES : 
