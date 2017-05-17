@@ -55,13 +55,18 @@ cd [chemin d'accès]/www/lookart
 ```
 git init
 ```
-
-* Récupération du contenu du repository
+* **Fork it** depuis https://github.com/Samsuffi/lookart.git
+* Copiez le contenu de votre repository dans votre dossier
 ```
-git pull https://github.com/[votrecompte]/lookart.git 
+git clone https://github.com/[votrecompte]/lookart.git 
 ```
-
 Vous devriez avoir le projet votre dossier www/lookart
+
+* **Create branch**
+* Faites vos modifications
+* **Commit**
+* **Push** dans votre repository
+* **Pull Request** pour que le dossier principal soit mis à jour (nécessite une intervention humaine)
 
 #########################################################################################
 
