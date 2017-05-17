@@ -29,7 +29,7 @@ Les lignes commencant par un tidle : ~ correspondent à des commandes à entrer 
 
 Mise en place de l'espace de travail : 
 
-		//A remplir au fur et à mesure
+	//A remplir au fur et à mesure
 
 Récupération du contenu du repository :
 
@@ -55,15 +55,16 @@ Récupération du contenu du repository
 Commandes utiles :
 
 Sous les terminaux type Linux (Terminal ou GitBash) la touche tabulation 
-		permet une écriture automatique des chemins d'accès à partir des premières lettres pertinentes
-		avec trois dossiers [local, wamp, windows],
-				~ cd l [tab] trouve local, mais ~ cd w [tab] ne trouvera pas, il faudra préciser wi ou wa
+	permet une écriture automatique des chemins d'accès à partir des premières lettres pertinentes
+	avec trois dossiers [local, wamp, windows],
+	
+	~ cd l [tab] trouve local, mais ~ cd w [tab] ne trouvera pas, il faudra préciser wi ou wa
 
 ~ cd [to] : "change directory"-espace-pathDirectory permet de se positionner dans le pathDirectory
 
-		Exemples :
-		~ cd e: : se positionner dans le lecteur E: (utiliser C:, D:, etc selon votre install)
-		~ cd wamp/www/lookart : se positionner dans le dossier lookart
+	Exemples :
+	~ cd e: : se positionner dans le lecteur E: (utiliser C:, D:, etc selon votre install)
+	~ cd wamp/www/lookart : se positionner dans le dossier lookart
 		
 ~ [commande] --help ou [commande] -h ou [commande] -? : au moins une de ces options permet de voir la doc de la commande
 
